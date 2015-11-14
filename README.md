@@ -77,12 +77,10 @@
 
 + [git community book 中文版](http://gitbook.liuhui998.com/index.html)
   + [PDF格式](http://gitbook.liuhui998.com/book.pdf)
-+ [pro git 中文第一版](http://git-scm.com/doc)
-  + EPUB格式（v1）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582235)
-    + [51CTO下载](http://down.51cto.com/data/2037756)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCW)
-    + [百度云下载](http://pan.baidu.com/s/1pJt9Pgv)
++ [pro git 中文第二版](http://git-scm.com/book/zh/v2)
+  + [PDF格式](https://progit2.s3.amazonaws.com/zh/2015-10-19-98bb8/progit-zh.889.pdf)
+  + [EPUB格式](https://progit2.s3.amazonaws.com/zh/2015-10-19-98bb8/progit-zh.889.epub)
+  + [MOBI格式](https://progit2.s3.amazonaws.com/zh/2015-10-19-98bb8/progit-zh.889.mobi)
 
 ## Hibernate
 
