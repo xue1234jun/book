@@ -103,11 +103,14 @@
 
 ## Laravel
 
-+ [Laravel官方文档4.2](http://v4.golaravel.com/docs/4.2)
-  + EPUB格式（v4.2）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582945)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCq)
-    + [百度云下载](http://pan.baidu.com/s/1ntqVYWh)
++ [Laravel 4.2 中文文档](https://star001007.gitbooks.io/laravel-notest/content/)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/star001007/laravel-notest)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/star001007/laravel-notest)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/star001007/laravel-notest)
++ [Laravel 5 中文文档](https://lbp0200.gitbooks.io/laravel-5-doc/content/)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/lbp0200/laravel-5-doc)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/lbp0200/laravel-5-doc)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/lbp0200/laravel-5-doc)
 
 ## Linux
 
@@ -142,11 +145,10 @@
 
 ## Node.js
 
-+ [Node.js官方API参考v0.10.18](http://nodeapi.ucdok.com/#/api/)
-  + EPUB格式（v0.10.18）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582649)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCv)
-    + [百度云下载](http://pan.baidu.com/s/1eQCOZq6)
++ [Node.js API 中文文档](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/davidcai1993/nodejs-api-doc-in-chinese)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/davidcai1993/nodejs-api-doc-in-chinese)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/davidcai1993/nodejs-api-doc-in-chinese)
 
 ## PHP
 
