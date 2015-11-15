@@ -62,11 +62,10 @@
 
 ## Django
 
-+ [django book 2.0](http://docs.30c.org/djangobook2/)
-  + EPUB格式（2.0）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582521)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCo)
-    + [百度云下载](http://pan.baidu.com/s/1mguvNO8)
++ [django book 2.0](https://wizardforcel.gitbooks.io/django-book-20-zh-cn/content/)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-book-20-zh-cn)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-book-20-zh-cn)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/django-book-20-zh-cn)
 + [django中文官方文档1.8](http://python.usyiyi.cn/django/index.html)
   + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18)
   + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18)
