@@ -62,7 +62,7 @@
 
 ## Django
 
-+ [django book 2.0](https://wizardforcel.gitbooks.io/django-book-20-zh-cn/content/)
++ [django book 2.0](http://djangobook.py3k.cn/2.0/)
   + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-book-20-zh-cn)
   + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-book-20-zh-cn)
   + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/django-book-20-zh-cn)
