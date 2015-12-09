@@ -281,6 +281,8 @@
 + [「从零开始」系列汇总](https://github.com/justjavac/Programming-Alpha-To-Omega)
 + [Wikibooks: Computing](http://en.wikibooks.org/wiki/Subject:Computing)
 + [GitBook](https://www.gitbook.com/explore)
++ [极客学院Wiki](http://wiki.jikexueyuan.com/)
++ [KanCloud](http://www.kancloud.cn/explore)
 + 知名出版社微博
     + [图灵教育](http://weibo.com/turingbooks)
     + [博文视点](http://weibo.com/broadviewbj)
