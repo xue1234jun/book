@@ -98,6 +98,11 @@
     + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROsm7u)
     + [百度云下载](http://pan.baidu.com/s/1hq29Lqc)
 
+## Kali
+
++ [Kali Linux 官方文档](http://cn.docs.kali.org/)
++ [Kali Linux 工具介绍](http://tools.kali.org/tools-listing)
+
 ## Laravel
 
 + [Laravel 4.2 中文文档](https://star001007.gitbooks.io/laravel-notest/content/)
