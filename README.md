@@ -7,7 +7,12 @@
   + [EPUB格式](http://hukai.me/eBooks/AndroidTrainingCHS.epub)
   + [MOBI格式](http://hukai.me/eBooks/AndroidTrainingCHS.mobi)
   + [代码仓库](https://github.com/kesenhoo/android-training-course-in-chinese)
-+ [深入理解 Android 卷I、卷II、卷III](http://blog.csdn.net/column/details/innost.html)
++ [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
+  + [PDF格式](http://wiki.jikexueyuan.com/download/deep-android-v1/pdf/)
+  + [EPUB格式](http://wiki.jikexueyuan.com/download/deep-android-v1/pdf/)
++ [深入理解 Android 卷II](http://wiki.jikexueyuan.com/project/deep-android-v2/)
+  + [PDF格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
+  + [EPUB格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
 + Android 开发者指南 & API参考
   + CHM格式（2012.1.31）
     + [CSDN下载](http://download.csdn.net/detail/wizardforcel/9082289)
@@ -34,12 +39,9 @@
 
 ## Bootstrap
 
-+ [Bootstrap官方文档](http://v3.bootcss.com/)
-  + PDF格式（2014.10.07）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8008529)
-    + [51CTO下载](http://down.51cto.com/data/1880517)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOcq)
-    + [百度云下载](http://pan.baidu.com/s/1hqrMhwC)
++ [Bootstrap3 官方文档](http://v3.bootcss.com/)
+  + [PDF格式](http://wiki.jikexueyuan.com/download/bootstrap/pdf/)
+  + [EPUB格式](http://wiki.jikexueyuan.com/download/bootstrap/epub/)
 
 ## C++
 
@@ -71,6 +73,11 @@
   + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18)
   + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/django-chinese-docs-18)
   + [代码仓库](https://github.com/wizardforcel/django-chinese-docs-18)
+
+## Flask
+
++ [Flask 中文文档 0.10.1](http://docs.jinkan.org/docs/flask/)
+  + [EPUB格式](https://media.readthedocs.org/epub/flask-chs/latest/flask-chs.epub)
 
 ## Git
 
@@ -195,8 +202,9 @@
 
 ## Swift
 
-+ [Swift编程语言中文完整版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
-  + [PDF格式](http://vdisk.weibo.com/s/EhsPPzRRQ5CZ/1402621206)
++ [Swift编程语言 2.0](http://wiki.jikexueyuan.com/project/swift/)
+  + [PDF格式](http://wiki.jikexueyuan.com/download/swift/pdf/)
+  + [EPUB格式](http://wiki.jikexueyuan.com/download/swift/epub/)
 + [using swift with cocoa and object-c 中文完整版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
   + [PDF格式](http://vdisk.weibo.com/s/EhsPPzRRQHNd)
 
