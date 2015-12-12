@@ -65,9 +65,7 @@
 ## Django
 
 + [django book 2.0](http://djangobook.py3k.cn/2.0/)
-  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-book-20-zh-cn)
-  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-book-20-zh-cn)
-  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/django-book-20-zh-cn)
+  + [下载地址](http://www.kancloud.cn/thinkphp/django-book)
 + [django中文官方文档1.8](http://python.usyiyi.cn/django/index.html)
   + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18)
   + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18)
