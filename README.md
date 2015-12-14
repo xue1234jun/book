@@ -135,7 +135,7 @@
 ## MySQL
 
 + [MySQL官方文档5.1](http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/)
-  +[下载地址](http://www.kancloud.cn/yangweijie/mysql5_1)
+  + [下载地址](http://www.kancloud.cn/yangweijie/mysql5_1)
 
 ## Nginx
 
