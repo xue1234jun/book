@@ -140,11 +140,9 @@
 ## Nginx
 
 + [Nginx官方文档](http://www.nginx.cn/doc/)
-  + EPUB格式（2015.04.11）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583833)
-    + [51CTO下载](http://down.51cto.com/data/2037844)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCF)
-    + [百度云下载](http://pan.baidu.com/s/1BBl2Q)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/nginx-doc)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/nginx-doc)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/nginx-doc)
 
 ## Node.js
 
