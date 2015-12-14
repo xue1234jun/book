@@ -166,6 +166,10 @@
   + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/python-doc-27-34)
   + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/python-doc-27-34)
   + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/python-doc-27-34)
++ [笨办法学Python](https://www.gitbook.com/book/wizardforcel/lpthw/details)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lpthw)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lpthw)
 
 ## QT
 
