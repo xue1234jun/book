@@ -165,10 +165,9 @@
 + [python2.7标准库参考](http://python.usyiyi.cn/python_278/library/index.html)
 + [python3.4官方教程](http://python.usyiyi.cn/python_341/tutorial/index.html)
 + Python官方文档EPUB格式（2.7，3.4）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8584309)
-  + [51CTO下载](http://down.51cto.com/data/2037891)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCu)
-  + [百度云下载](http://pan.baidu.com/s/1o65hgxW)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/python-doc-27-34)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/python-doc-27-34)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/python-doc-27-34)
 
 ## QT
 
