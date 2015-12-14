@@ -135,11 +135,7 @@
 ## MySQL
 
 + [MySQL官方文档5.1](http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/)
-  + EPUB格式（v5.1）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583557)
-    + [51CTO下载](http://down.51cto.com/data/2037837)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCC)
-    + [百度云下载](http://pan.baidu.com/s/1sjn0gJN)
+  +[下载地址](http://www.kancloud.cn/yangweijie/mysql5_1)
 
 ## Nginx
 
