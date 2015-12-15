@@ -98,6 +98,10 @@
     + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROsm7u)
     + [百度云下载](http://pan.baidu.com/s/1hq29Lqc)
 
+## jQuery
+
++ [jQuery 1.8.0 API 文档](http://www.kancloud.cn/k12_develop/jquery180)
+
 ## Kali
 
 + [Kali Linux 官方文档](http://cn.docs.kali.org/)
