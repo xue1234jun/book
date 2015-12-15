@@ -13,20 +13,15 @@
 + [深入理解 Android 卷II](http://wiki.jikexueyuan.com/project/deep-android-v2/)
   + [PDF格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
   + [EPUB格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
-+ Android 开发者指南 & API参考
-  + CHM格式（2012.1.31）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/9082289)
-    + [51CTO下载](http://down.51cto.com/data/2090354)
-    + [千易下载](http://1000eb.com/1fvev)
-+ [14天学会安卓开发](http://www.apkbus.com/android-83159-1-1.html)
-  + PDF格式（2014.10.5）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8003975)
-    + [51CTO下载](http://down.51cto.com/data/1880102)
+
+## AngularJS
+
++ [AngularJS入门教程](http://www.kancloud.cn/thinkphp/angularjs-guide)
 
 ## Apache
 
 + [Apache官方文档2.2](http://httpd.apache.org/docs/2.2/zh-cn/)
-  + [EPUB格式（v2.2）](http://www.veryhuo.com/down/html/40810.html)
+  + [CHM格式](http://www.veryhuo.com/down/html/40810.html)
 
 ## ASP
 
