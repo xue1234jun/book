@@ -226,6 +226,10 @@
 + [Acm Cheat Sheet](https://github.com/soulmachine/acm-cheat-sheet)
 + [啊哈！算法](http://www.cnblogs.com/ahalei/category/554795.html)
 + [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
++ [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/the-art-of-programming-by-july)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/the-art-of-programming-by-july)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/the-art-of-programming-by-july)
 
 ## 网络安全
 
