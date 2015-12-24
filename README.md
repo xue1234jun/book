@@ -249,6 +249,9 @@
 ## OS
 
 + [jos学习笔记](http://blog.csdn.net/roger__wong/article/details/8373719)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/jos-lab)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/jos-lab)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/jos-lab)
 + [yfs lab 总结](http://www.flygon.net/yfs-lab)
 
 ## 图书
