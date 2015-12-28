@@ -32,6 +32,13 @@
 + [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
   + [PDF格式](http://files.cnblogs.com/powertoolsteam/ASP.NET_MVC5_%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
 
+## Atom
+
++ [Atom 飞行手册 中文版](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/atom-flight-manual-zh-cn)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/atom-flight-manual-zh-cn)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/atom-flight-manual-zh-cn)
+
 ## Bootstrap
 
 + [Bootstrap3 官方文档](http://v3.bootcss.com/)
