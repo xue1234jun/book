@@ -210,12 +210,10 @@
 + [WebPlatform](https://docs.webplatform.org/wiki/tutorials)
 + [20个网页设计免费电子书2014（上）](http://www.jianshu.com/p/c39c1caa25b6)
 + [20个网页设计免费电子书2014（下）](http://www.jianshu.com/p/4fc08bc158b1)
-+ [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
-  + PDF格式（2014.10.01）
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995167)
-    + [51CTO下载](http://down.51cto.com/data/1878981)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCE)
-    + [百度云下载](http://pan.baidu.com/s/1jG5pnwi)
++ [Chrome扩展开发文档](https://www.gitbook.com/book/wizardforcel/chrome-doc/details)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/chrome-doc)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/chrome-doc)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/chrome-doc)
 
 ## 算法
 
