@@ -243,7 +243,10 @@
 
 + [PC Assembly Language](http://www.drpaulcarter.com/pcasm/)
 + [Intel 80386 Programmer’s Reference Manual](http://www.logix.cz/michal/doc/i386/)
-+ [逆向工程入门](http://zhuanlan.zhihu.com/wooyun/19810488)
++ [逆向工程入门](https://www.gitbook.com/book/wizardforcel/re-for-beginners/details)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/re-for-beginners)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/re-for-beginners)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/re-for-beginners)
 
 ## 测试
 
