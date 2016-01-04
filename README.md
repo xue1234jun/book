@@ -263,7 +263,6 @@
 ## 图书
 
 + 中文
-    + [龙哥盟 – 计算机电子书](http://it-ebooks.flygon.net)
     + [脚本之家电子书](http://www.jb51.net/books/)
     + [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
     + [计算机书籍控](http://bestcbooks.com/)
