@@ -30,7 +30,9 @@
 ## ASP.net
 
 + [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
-  + [PDF格式](http://files.cnblogs.com/powertoolsteam/ASP.NET_MVC5_%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/aspnet-mvc5-getting-started)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/aspnet-mvc5-getting-started)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/aspnet-mvc5-getting-started)
 
 ## Atom
 
@@ -82,7 +84,7 @@
 ## Git
 
 + [git community book 中文版](http://gitbook.liuhui998.com/index.html)
-  + [PDF格式](http://gitbook.liuhui998.com/book.pdf)
+  + [下载地址](http://www.kancloud.cn/thinkphp/git-community-book)
 + [pro git 中文第二版](http://git-scm.com/book/zh/v2)
   + [PDF格式](https://progit2.s3.amazonaws.com/zh/2015-10-19-98bb8/progit-zh.889.pdf)
   + [EPUB格式](https://progit2.s3.amazonaws.com/zh/2015-10-19-98bb8/progit-zh.889.epub)
@@ -90,20 +92,15 @@
 
 ## Hibernate
 
-+ hibernate官方文档
-  + CHM格式
-    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588159)
-    + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC-)
-    + [百度云下载](http://pan.baidu.com/s/1i3lE5lN)
++ [hibernate官方文档](https://www.gitbook.com/book/wizardforcel/hibernate-doc/details)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/hibernate-doc)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/hibernate-doc)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/hibernate-doc)
 
 ## Java
 
 + [Java se6 API参考](http://dlc.sun.com.edgesuite.net/jdk/jdk-api-localizations/jdk-api-zh-cn/publish/1.6.0/html/zh_CN/api/index.html)
   + [CHM格式](http://www.pc6.com/softview/SoftView_74643.html)
-+ javaee6 官方文档
-  + PDF格式
-    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROsm7u)
-    + [百度云下载](http://pan.baidu.com/s/1hq29Lqc)
 
 ## jQuery
 
@@ -112,6 +109,9 @@
 ## Kali
 
 + [Kali Linux 官方文档](http://cn.docs.kali.org/)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/kali-linux-doc)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/kali-linux-doc)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/kali-linux-doc)
 + [Kali Linux 工具介绍](http://tools.kali.org/tools-listing)
 
 ## Laravel
@@ -187,7 +187,9 @@
 ## Redis
 
 + [Redis官方文档](http://redisdoc.com)
-  + [PDF格式](https://github.com/huangz1990/redis/tree/master/download)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/redis-doc)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/redis-doc)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/redis-doc)
 
 ## Spring
 
@@ -204,8 +206,10 @@
 + [Swift编程语言 2.0](http://wiki.jikexueyuan.com/project/swift/)
   + [PDF格式](http://wiki.jikexueyuan.com/download/swift/pdf/)
   + [EPUB格式](http://wiki.jikexueyuan.com/download/swift/epub/)
-+ [using swift with cocoa and object-c 中文完整版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
-  + [PDF格式](http://vdisk.weibo.com/s/EhsPPzRRQHNd)
++ [using swift with cocoa and object-c](https://www.gitbook.com/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c/details)
+  + [PDF格式](https://www.gitbook.com/download/pdf/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c)
+  + [EPUB格式](https://www.gitbook.com/download/epub/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c)
+  + [MOBI格式](https://www.gitbook.com/download/mobi/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c)
 
 ## VBScript
 
