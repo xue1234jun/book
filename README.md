@@ -49,8 +49,6 @@
 
 ## C++
 
-+ [你好，C++](http://zhuanlan.zhihu.com/nihaoCPP)
-
 ## CSharp
 
 + [MSDN指南 & 编程手册](http://shouce.jb51.net/net/index.html)
