@@ -1,7 +1,7 @@
 # 开发者教程整理
 
 + [站点](http://it-ebooks.flygon.net/)
-+ [站点源码](https://coding.net/u/wizardforcel/p/it-ebooks/git)
++ [站点源码](https://github.com/it-ebooks/blog)
 
 ## Android 官方培训教程
 
