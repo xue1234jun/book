@@ -1,4 +1,4 @@
-# 开发者教程整理
+# 计算机开放电子书汇总
 
 + [站点](http://it-ebooks.flygon.net/)
 + [站点源码](https://github.com/it-ebooks/blog)
