@@ -3,6 +3,17 @@
 + [站点](http://it-ebooks.flygon.net/)
 + [站点源码](https://github.com/it-ebooks/blog)
 
+## 简明 Python 教程
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/a-byte-of-python/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/a-byte-of-python)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/a-byte-of-python)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/a-byte-of-python)
+
+## ACM Cheat Sheet
+
++ [PDF格式](https://github.com/soulmachine/acm-cheat-sheet/blob/master/C++/%E6%89%8B%E5%86%99%E4%BB%A3%E7%A0%81%E5%BF%85%E5%A4%87%E6%89%8B%E5%86%8C%28C++%E7%89%88%29.pdf?raw=true)
+
 ## Android 官方培训教程
 
 * [在线阅读](http://hukai.me/android-training-course-in-chinese/index.html)
@@ -40,11 +51,26 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/atom-flight-manual-zh-cn)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/atom-flight-manual-zh-cn)
 
+## Beyond the C++ Standard Library 中文版
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/beyond-stl/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/beyond-stl)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/beyond-stl)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/beyond-stl)
+
 ## Bootstrap3 中文官方文档
 
 * [在线阅读](http://wiki.jikexueyuan.com/project/bootstrap/)
 + [PDF格式](http://wiki.jikexueyuan.com/download/bootstrap/pdf/)
 + [EPUB格式](http://wiki.jikexueyuan.com/download/bootstrap/epub/)
+
+## C/C++ API 参考（英文）
+
++ [在线阅读](http://www.cplusplus.com/reference/)
+
+## C/C++ 中文参考
+
++ [在线阅读](http://zh.cppreference.com)
 
 ## Chrome 扩展开发文档
 
@@ -53,6 +79,22 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/chrome-doc)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/chrome-doc)
 
+## Chrome扩展及应用开发（首发版）
+
++ [在线阅读](http://www.ituring.com.cn/book/1421)
++ [EPUB格式](http://vdisk.weibo.com/s/aADaW4YRFpY9B)
++ [MOBI格式](http://www.ituring.com.cn/minibook/pushtokindle/950)
+
+## CoffeeScript Coobook 中文版
+
++ [在线阅读](http://wiki.jikexueyuan.com/project/coffeescript/)
++ [PDF格式](http://wiki.jikexueyuan.com/download/coffeescript/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/coffeescript/epub/)
+
+## Python 核心编程 第二版
+
++ [在线阅读](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/)
+
 ## C++11 FAQ 中文版
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/cpp-11-faq/details)
@@ -60,10 +102,15 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/cpp-11-faq)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/cpp-11-faq)
 
-## 像计算机科学家一样思考（C++版）
+## C++ Template 进阶指南
 
-+ [在线阅读](http://www.kancloud.cn/ituring/nvshengeweiwei)
-+ [下载地址](http://www.kancloud.cn/ituring/nvshengeweiwei)
++ [在线阅读](https://github.com/wuye9036/CppTemplateTutorial)
++ [Markdown格式](https://github.com/wuye9036/CppTemplateTutorial/archive/master.zip)
+
+## CTF Field Guide
+
++ [在线阅读](https://trailofbits.github.io/ctf/)
++ [Markdown格式](https://github.com/trailofbits/ctf/archive/master.zip)
 
 ## D3.js API 中文手册
 
@@ -71,6 +118,33 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/d3-api-ref)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/d3-api-ref)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/d3-api-ref)
+
+## D3.js 入门教程
+
++ [在线阅读](http://wiki.jikexueyuan.com/project/d3wiki/author.html)
++ [PDF格式](http://wiki.jikexueyuan.com/download/d3wiki/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/d3wiki/epub/)
+
+## 大学霸 Kali Linux 安全渗透教程
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/daxueba-kali-linux-tutorial/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/daxueba-kali-linux-tutorial)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/daxueba-kali-linux-tutorial)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/daxueba-kali-linux-tutorial)
+
+## Dive Into Python 中文版
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/dive-into-python/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/dive-into-python)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/dive-into-python)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/dive-into-python)
+
+## Dive Into Python3 中文版
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/dive-into-python3/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/dive-into-python3)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/dive-into-python3)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/dive-into-python3)
 
 ## django权威指南（django book）（中文第二版）
 
@@ -93,10 +167,20 @@
 
 ## Django之歌：简易博客搭建教程
 
-+ [在线阅读](https://www.gitbook.com/star/book/andrew-liu/django-blog)
++ [在线阅读](https://www.gitbook.com/book/andrew-liu/django-blog)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/andrew-liu/django-blog)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/andrew-liu/django-blog)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/andrew-liu/django-blog)
+
+## Django 网站开发 Cookbook 
+
++ [在线阅读](https://github.com/cundi/Web.Development.with.Django.Cookbook)
++ [Markdown格式](https://github.com/cundi/Web.Development.with.Django.Cookbook/archive/master.zip)
+
+## Django 设计模式与最佳实践
+
++ [在线阅读](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
++ [Markdown格式](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices/archive/master.zip)
 
 ## .NET 4.0 类库参考手册
 
@@ -109,15 +193,29 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/effective-cpp)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/effective-cpp)
 
-## Effective Go
+## Effective C# 改善C#程序的50种方法
 
-+ [在线阅读](http://www.kancloud.cn/kancloud/effective)
-+ [下载地址](http://www.kancloud.cn/kancloud/effective)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/effective-csharp/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/effective-csharp)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/effective-csharp)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/effective-csharp)
 
 ## ECMAScript 6入门
 
 + [在线阅读](http://www.kancloud.cn/kancloud/ecmascript6-guide)
 + [下载地址](http://www.kancloud.cn/kancloud/ecmascript6-guide)
+
+## Java 编程要点
+
++ [在线阅读](https://www.gitbook.com/book/waylau/essential-java/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/waylau/essential-java)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/waylau/essential-java)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/waylau/essential-java)
+
+## Explore Flask 中文版
+
++ [在线阅读](http://www.pythondoc.com/exploreflask/index.html)
++ [RST格式](https://github.com/sixu05202004/explore-flask-cn/archive/master.zip)
 
 ## Express.js 中文文档
 
@@ -135,6 +233,18 @@
 * [在线阅读](http://docs.jinkan.org/docs/flask/)
 + [EPUB格式](https://media.readthedocs.org/epub/flask-chs/latest/flask-chs.epub)
 
+## Flask 扩展文档汇总
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/flask-extension-docs)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/flask-extension-docs)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/flask-extension-docs)
+
+## Flask 大型教程
+
++ [在线阅读](http://www.pythondoc.com/flask-mega-tutorial/index.html)
++ [RST格式](https://github.com/sixu05202004/The-Flask-Mega-Tutorial/archive/master.zip)
+
 ## FLTK 中文手册
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/fltk-manual/details)
@@ -142,17 +252,34 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/fltk-manual)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/fltk-manual)
 
-## 飞龙的程序员书单
+## Foundations of Computation
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/flygon-booklist/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/flygon-booklist)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/flygon-booklist)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/flygon-booklist)
++ [在线阅读](http://math.hws.edu/FoundationsOfComputation/)
+
+## Functional Programming in Python
+
++ [PDF格式](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
++ [EPUB格式](http://www.oreilly.com/programming/free/files/functional-programming-python.epub)
++ [MOBI格式](http://www.oreilly.com/programming/free/files/functional-programming-python.mobi)
 
 ## Git Community Book 中文版
 
 + [在线阅读](http://www.kancloud.cn/thinkphp/git-community-book)
 + [下载地址](http://www.kancloud.cn/thinkphp/git-community-book)
+
+## Git Reference （英文）
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/git-ref-en/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/git-ref-en)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/git-ref-en)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/git-ref-en)
+
+## GitHub 漫游指南
+
++ [在线阅读](http://github.phodal.com/)
++ [PDF格式](https://github.com/phodal/github-roam/raw/gh-pages/github-roam.pdf)
++ [EPUB格式](https://github.com/phodal/github-roam/raw/gh-pages/github-roam.epub)
++ [MOBI格式](https://github.com/phodal/github-roam/raw/gh-pages/github-roam.mobi)
 
 ## Go Web 编程
 
@@ -166,6 +293,20 @@
 + [在线阅读](http://www.kancloud.cn/kancloud/the-way-to-go)
 + [下载地址](http://www.kancloud.cn/kancloud/the-way-to-go)
 
+## Go 中文文档
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/golang-doc/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/golang-doc)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/golang-doc)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/golang-doc)
+
+## Go 标准库 中文参考
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/golang-stdlib-ref/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/golang-stdlib-ref)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/golang-stdlib-ref)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/golang-stdlib-ref)
+
 ## Go 语言圣经 中文版
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
@@ -173,12 +314,31 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/gopl-zh)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/gopl-zh)
 
+## 灰帽 Python 之旅
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/grey-hat-python/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/grey-hat-python)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/grey-hat-python)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/grey-hat-python)
+
+## Growth：深入浅出全栈工程师
+
++ [在线阅读](http://growth.phodal.com/)
++ [EPUB格式](https://github.com/phodal/growth-ebook/raw/gh-pages/growth.epub)
+
 ## Hexo 中文文档
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/hexo-doc/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/hexo-doc)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/hexo-doc)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/hexo-doc)
+
+## Intel 80386 程序员参考手册
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/intel-80386-ref-manual/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/intel-80386-ref-manual)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/intel-80386-ref-manual)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/intel-80386-ref-manual)
 
 ## IntelliJ IDEA 使用教程
 
@@ -192,9 +352,31 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/introducing-ios8)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/introducing-ios8)
 
-## 像计算机科学家一样思考java
+## Introduction to Computer Graphics
 
-+ [在线阅读](http://www.ituring.com.cn/minibook/69)
++ [在线阅读](http://math.hws.edu/graphicsbook/)
++ [HTML格式](http://math.hws.edu/eck/cs424/downloads/graphicsbook-web-site.zip)
++ [PDF格式](http://math.hws.edu/eck/cs424/downloads/graphicsbook-linked.pdf)
+
+## Introduction to Programming Using Java 7e
+
++ [在线阅读](http://math.hws.edu/javanotes/)
++ [HTML格式](http://math.hws.edu/eck/cs124/downloads/javanotes7.zip)
++ [PDF格式](http://math.hws.edu/eck/cs124/downloads/javanotes7-linked.pdf)
+
+## Introduction To Tornado 中文版
+
++ [在线阅读](http://www.kancloud.cn/kancloud/introduction_to_tornado)
++ [下载地址](http://www.kancloud.cn/kancloud/introduction_to_tornado)
+
+## iOS Security May 2012
+
++ [PDF格式](http://old.sebug.net/paper/mobile/iOS_Security_May12.pdf)
+
+## iOS Security Wiki
+
++ [在线阅读](http://security.ios-wiki.com/)
++ [Markdown格式](https://github.com/wufawei/iossecurity/archive/master.zip)
 
 ## Java 开源项目中文文档
 
@@ -206,10 +388,40 @@
 ## Java SE 6 API 参考
 
 + [在线阅读](http://dlc.sun.com.edgesuite.net/jdk/jdk-api-localizations/jdk-api-zh-cn/publish/1.6.0/html/zh_CN/api/index.html)
++ [CHM格式](http://www.pc6.com/softview/SoftView_74643.html)
+
+## Oracle Java SE Tutorials
+
++ [在线阅读](https://docs.oracle.com/javase/tutorial/)
++ [下载地址](http://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html)
+
+## Modern Java - A Guide to Java 8 （英文）
+
++ [在线阅读](https://github.com/winterbe/java8-tutorial)
++ [Markdown格式](https://github.com/winterbe/java8-tutorial/archive/master.zip)
+
+## Java 8 教程汇总
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/java8-tutorials/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/java8-tutorials)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/java8-tutorials)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/java8-tutorials)
 
 ## JavaScript 标准参考教程
 
 + [在线阅读](http://javascript.ruanyifeng.com/)
+
+## Jinja2 中文文档
+
++ [在线阅读](http://www.kancloud.cn/manual/jinja2)
++ [下载地址](http://www.kancloud.cn/manual/jinja2)
+
+## 深入浅出MFC
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/jjhou-mfc/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/jjhou-mfc)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/jjhou-mfc)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/jjhou-mfc)
 
 ## joel说软件
 
@@ -229,6 +441,11 @@
 
 + [在线阅读](http://www.kancloud.cn/k12_develop/jquery180)
 + [下载地址](http://www.kancloud.cn/k12_develop/jquery180)
+
+## jQuery架构设计与实现
+
++ [在线阅读](https://github.com/JsAaron/jQuery)
++ [Markdown格式](https://github.com/JsAaron/jQuery/archive/master.zip)
 
 ## jQuery Mobile 中文文档 A4
 
@@ -251,6 +468,20 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/kali-linux-doc)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/kali-linux-doc)
 
+## Kotlin for android Developers 中文翻译
+
++ [在线阅读](https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wangjiegulu/kotlin-for-android-developers-zh)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wangjiegulu/kotlin-for-android-developers-zh)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wangjiegulu/kotlin-for-android-developers-zh)
+
+## Kotlin 中文参考
+
++ [在线阅读](https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/huanglizhuo/kotlin-in-chinese)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/huanglizhuo/kotlin-in-chinese)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/huanglizhuo/kotlin-in-chinese)
+
 ## 看雪软件安全文档库（KSSD） 2012
 
 + [在线阅读](http://www.pediy.com/kssd/)
@@ -269,6 +500,13 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/lbp0200/laravel-5-doc)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/lbp0200/laravel-5-doc)
 
+## Learn C The Hard Way （英文）
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/lcthw-en/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw-en)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lcthw-en)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw-en)
+
 ## Learn Javascript 中文版
 
 + [在线阅读](https://www.gitbook.com/book/xinqiu/learn-javascript-cn/details)
@@ -282,6 +520,10 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/learning-hard-csharp)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/learning-hard-csharp)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/learning-hard-csharp)
+
+## LeetCode题解
+
++ [PDF格式](https://github.com/soulmachine/leetcode/raw/master/C%2B%2B/leetcode-cpp.pdf)
 
 ## 数据结构与算法笔记（leetcode/lintcode题解）
 
@@ -310,6 +552,12 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/xinqiu/linux-insides-cn)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/xinqiu/linux-insides-cn)
 
+## Linux就该这么学
+
++ [在线阅读](http://www.linuxprobe.com/)
++ [PDF格式](http://www.linuxprobe.com/docs/LinuxProbe.pdf)
++ [DOCX格式](http://www.linuxprobe.com/docs/LinuxProbe.docx)
+
 ## 笨办法学python（中文第三版）
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/lpthw/details)
@@ -329,6 +577,13 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lua-doc)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lua-doc)
 
+## Markdown 简单的世界
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/markdown-simple-world)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/markdown-simple-world)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/markdown-simple-world)
+
 ## Metasploit 中文手册
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/metasploit-manual/details)
@@ -339,6 +594,13 @@
 ## MSDN 2008
 
 + [下载地址](https://www.microsoft.com/zh-cn/download/details.aspx?id=20955)
+
+## MSDN C# 编程指南 & 参考手册 2015
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/msdn-csharp/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/msdn-csharp)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/msdn-csharp)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/msdn-csharp)
 
 ## MySQL 官方文档 5.1
 
@@ -372,9 +634,25 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/orm2-doc-zh-cn)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/orm2-doc-zh-cn)
 
+## OWASP测试指南V3.0中文版
+
++ [PDF格式](http://www.owasp.org.cn/owasp-project/download/OWASP_testing_guide)
+
+## 安全备忘单翻译项目（OWASP Cheat Sheet Series）
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/owasp-cheat-sheet-zh/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/owasp-cheat-sheet-zh)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/owasp-cheat-sheet-zh)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/owasp-cheat-sheet-zh)
+
+## PC Assembly Language （中文版）
+
++ [PDF格式](http://www.drpaulcarter.com/pcasm/pcasm-book-simplified-chinese.zip)
+
 ## PHP 中文文档
 
 + [在线阅读](http://php.net/manual/zh/)
++ [CHM格式](http://php.net/get/php_manual_zh.chm/from/a/mirror)
 
 ## PostgreSQL 中文文档 9.3
 
@@ -390,12 +668,30 @@
 + [EPUB格式](https://progit2.s3.amazonaws.com/zh/2015-12-02-9d8a9/progit-zh.936.epub)
 + [MOBI格式](https://progit2.s3.amazonaws.com/zh/2015-12-02-9d8a9/progit-zh.936.mobi)
 
+## python 安全编程教程
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/py-sec-tutorial/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/py-sec-tutorial)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/py-sec-tutorial)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/py-sec-tutorial)
+
+## Python3 Cookbook 中文版
+
++ [在线阅读](http://www.kancloud.cn/kancloud/python3-cookbook)
++ [下载地址](http://www.kancloud.cn/kancloud/python3-cookbook)
+
 ## Python 中文文档 2.7 & 3.4
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/python-doc-27-34/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/python-doc-27-34)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/python-doc-27-34)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/python-doc-27-34)
+
+## 零基础学Python（第二版）
+
++ [在线阅读](http://wiki.jikexueyuan.com/project/start-learning-python/index.html)
++ [PDF格式](http://passport.jikexueyuan.com/sso/login)
++ [EPUB格式](http://passport.jikexueyuan.com/sso/login)
 
 ## Qt3 中文参考
 
@@ -406,6 +702,13 @@
 + [在线阅读](http://wiki.jikexueyuan.com/project/learn-road-qt/)
 + [PDF格式](http://wiki.jikexueyuan.com/download/learn-road-qt/pdf/)
 + [EPUB格式](http://wiki.jikexueyuan.com/download/learn-road-qt/epub/)
+
+## Q版缓冲区溢出教程
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/q-buffer-overflow-tutorial/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/q-buffer-overflow-tutorial)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/q-buffer-overflow-tutorial)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/q-buffer-overflow-tutorial)
 
 ## 逆向工程基础
 
@@ -438,12 +741,59 @@
 + [在线阅读](http://www.kancloud.cn/kancloud/redisbook)
 + [下载地址](http://www.kancloud.cn/kancloud/redisbook)
 
+## RePractise
+
++ [在线阅读](http://repractise.phodal.com/)
+
+## SciPy Cookbook （英文）
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/scipy-cookbook-en/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/scipy-cookbook-en)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/scipy-cookbook-en)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/scipy-cookbook-en)
+
+## 用Python做科学计算
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/hyry-studio-scipy/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/hyry-studio-scipy)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/hyry-studio-scipy)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/hyry-studio-scipy)
+
+## SciPy Lecture Notes 中文版
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/scipy-lecture-notes/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/scipy-lecture-notes)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/scipy-lecture-notes)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/scipy-lecture-notes)
+
 ## Selenium 中文文档
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/selenium-doc/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/selenium-doc)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/selenium-doc)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/selenium-doc)
+
+## SEO 教程
+
++ [在线阅读](http://wiki.jikexueyuan.com/project/seo/)
++ [PDF格式](http://wiki.jikexueyuan.com/download/seo/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/seo/epub/)
+
+## Sphinx 中文文档
+
++ [在线阅读](http://www.pythondoc.com/sphinx/index.html)
++ [RST格式](https://github.com/sixu05202004/sphinx-docs-cn/archive/master.zip)
+
+## SQLAlchemy 中文文档（未完成）
+
++ [RST格式](https://github.com/sixu05202004/sqlalchemy-docs-cn/archive/master.zip)
+
+## Sqlite 3.7.3 文档（英文）
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/sqlite-doc-en/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sqlite-doc-en)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sqlite-doc-en)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sqlite-doc-en)
 
 ## Swift 程序设计语言
 
@@ -457,6 +807,33 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/the-art-of-programming-by-july)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/the-art-of-programming-by-july)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/the-art-of-programming-by-july)
+
+## Boost C++ 库
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/the-boost-cpp-libraries/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/the-boost-cpp-libraries)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/the-boost-cpp-libraries)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/the-boost-cpp-libraries)
+
+## 像计算机科学家一样思考（C++版）
+
++ [在线阅读](http://www.kancloud.cn/ituring/nvshengeweiwei)
++ [下载地址](http://www.kancloud.cn/ituring/nvshengeweiwei)
+
+## 像计算机科学家一样思考java
+
++ [在线阅读](http://www.ituring.com.cn/minibook/69)
+
+## 像计算机科学家一样思考python 第二版
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/think-python-2e/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/think-python-2e)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/think-python-2e)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/think-python-2e)
+
+## 清华大学计算机系网络课程
+
++ [在线阅读](http://class.anycodes.cn/)
 
 ## TutorialsPoint 后端教程
 
@@ -493,12 +870,26 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-mobile)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-mobile)
 
+## TutorialsPoint 微软技术教程
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/tutorialspoint-ms/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-ms)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-ms)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-ms)
+
 ## TutorialsPoint 编程语言教程
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/tutorialspoint-programming/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-programming)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-programming)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-programming)
+
+## TypeScript Handbook（中文版）
+
++ [在线阅读](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/zhongsp/typescript-handbook)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/zhongsp/typescript-handbook)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/zhongsp/typescript-handbook)
 
 ## unity3d圣典
 
@@ -582,12 +973,21 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/weka-355-userguide)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/weka-355-userguide)
 
+## Werkzeug 中文文档
+
++ [在线阅读](http://www.kancloud.cn/manual/werkzeug)
++ [下载地址](http://www.kancloud.cn/manual/werkzeug)
+
 ## Wireshark 用户手册
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/wireshark-manual/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/wireshark-manual)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/wireshark-manual)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/wireshark-manual)
+
+## 乌云知识库汇总 2015.2.1
+
++ [在线阅读](http://drops.wooyun.org/)
 
 ## MFC程序员的WTL指南
 
@@ -602,6 +1002,10 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/wxwidgets-book)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/wxwidgets-book)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/wxwidgets-book)
+
+## 你不知道的JavaScript（英文版）（全六本）
+
++ [在线阅读](https://github.com/getify/You-Dont-Know-JS)
 
 ## Y分钟学习X种语言
 
@@ -620,6 +1024,28 @@
 + [在线阅读](http://www.kancloud.cn/digest/wireshark)
 + [下载地址](http://www.kancloud.cn/digest/wireshark)
 
+## 坐在马桶上学算法
+
++ [在线阅读](http://wiki.jikexueyuan.com/project/easy-learn-algorithm/)
++ [PDF格式](http://wiki.jikexueyuan.com/download/easy-learn-algorithm/pdf/)
++ [EPUB格式](http://wiki.jikexueyuan.com/download/easy-learn-algorithm/epub/)
+
+## 安全参考
+
++ [下载地址](http://yun.baidu.com/pcloud/album/info?query_uk=1379004958&album_id=4453935695511057059)
+
+## 数据挖掘十大算法详解
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/dm-algo-top10/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/dm-algo-top10)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/dm-algo-top10)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/dm-algo-top10)
+
+## 浅入浅出Java Web
+
++ [在线阅读](https://github.com/someus/another-tutorial-about-java-web)
++ [Markdown格式](https://github.com/someus/another-tutorial-about-java-web/archive/master.zip)
+
 ## 深入浅出 Node.js InfoQ迷你书
 
 + [在线阅读](http://www.kancloud.cn/thinkphp/nodejs-mini-book)
@@ -637,6 +1063,13 @@
 + [PDF格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
 + [EPUB格式](http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/)
 
+## 深入理解 Android 卷III
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/deepin-android-vol3/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/deepin-android-vol3)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/deepin-android-vol3)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/deepin-android-vol3)
+
 ## 现代 OpenGL 教程
 
 + [在线阅读](http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/)
@@ -650,10 +1083,17 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/feng-kuang-de-cheng-xu-yuan)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/feng-kuang-de-cheng-xu-yuan)
 
-## 程序员必读书单 1.0
+## 程序设计思想与方法
 
-+ [在线阅读](http://www.kancloud.cn/nvshengweiwei/nvshenweiwwe)
-+ [下载地址](http://www.kancloud.cn/nvshengweiwei/nvshenweiwwe)
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/sjtu-cs902-courseware)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/sjtu-cs902-courseware)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/sjtu-cs902-courseware)
+
+## 精通 Python 设计模式
+
++ [在线阅读](https://github.com/cundi/Mastering.Python.Design.Patterns)
++ [Markdown格式](https://github.com/cundi/Mastering.Python.Design.Patterns/archive/master.zip)
 
 ## 编程入门指南（by萧井陌）
 
@@ -665,6 +1105,13 @@
 + [在线阅读](http://www.kancloud.cn/ituring/chitchat-on-translation)
 + [下载地址](http://www.kancloud.cn/ituring/chitchat-on-translation)
 
+## 那些年我们一起学XSS
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/xss-naxienian/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/xss-naxienian)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/xss-naxienian)
++ [mobi格式](https://www.gitbook.com/download/mobi/book/wizardforcel/xss-naxienian)
+
 ## 零基础学qt4编程
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/wudi-qt4/details)
@@ -672,10 +1119,18 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/wudi-qt4)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/wudi-qt4)
 
+## 面向程序员的数据挖掘指南
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/guide-to-data-mining/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/guide-to-data-mining)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/guide-to-data-mining)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/guide-to-data-mining)
+
 ## 鸟哥的linux私房菜 （第三版） 服务器架设篇
 
 * [在线阅读](http://vbird.dic.ksu.edu.tw/linux_server/)
 
-## 鸟哥的linux私房菜 （第三版） 基础学习篇
+## 鸟哥的linux私房菜 （第四版） 基础学习篇
 
-* [在线阅读](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+* [在线阅读](http://linux.vbird.org/linux_basic/)
+
